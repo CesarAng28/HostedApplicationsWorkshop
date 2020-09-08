@@ -1,0 +1,6 @@
+Enter n fibo value:
+1	Recursive Fibo time 0.000000 s	Sequential Fibo time 0.000020 ms
+Enter n fibo value:
+2	Recursive Fibo time 0.000000 s	Sequential Fibo time 0.000030 ms
+Enter n fibo value:
+3	Recursive Fibo time 0.000000 s	Sequential Fibo time 0.000030 ms
